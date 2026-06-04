@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Daniel
 
-<!--
-**ve312/ve312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student from Colombia focused on Backend Development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java & Spring Boot Developer
+- Passionate about Software Architecture
+- Learning DevOps and Cloud Technologies
+- Interested in Distributed Systems
+- Open to Remote Opportunities
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- PostgreSQL
+- MongoDB
+- Docker
+- Git
+- JUnit
+- Mockito
+
+## Current Focus
+
+- Building production-ready backend applications
+- Learning Docker and CI/CD
+- Improving system design skills
+
+## Contact
+
+LinkedIn: [www.linkedin.com/in/daniel-ordonez-dev]
