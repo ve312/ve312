@@ -29,4 +29,4 @@ Software Engineering student from Colombia focused on Backend Development.
 
 ## Contact
 
-LinkedIn: [www.linkedin.com/in/daniel-ordonez-dev]
+LinkedIn: www.linkedin.com/in/daniel-ordonez-dev
